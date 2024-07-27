@@ -2,6 +2,10 @@
   "name": "swap-selection-cursor",
   "displayName": "Swap Selection Cursor",
   "description": "swap selection area cursor end-to-end position",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hellokidder/swap-selection-cursor.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.91.0"
